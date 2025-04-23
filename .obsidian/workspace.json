@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "d86a99c7918ce357",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69d384c906b2de4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c94716c16e758a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05536fd68bf93ce1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e36e0f7c03e178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90fd942467ec2aec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d801b19feadd1d10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "command",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e15fdcf3f83ed348",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "38fcd1347c080110",
+    "type": "split",
+    "children": [
+      {
+        "id": "5623193bd0d67544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d4da0783efbc756",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tasks/Task 7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Task 7"
+            }
+          },
+          {
+            "id": "e1803c75cd8242d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Getting started with Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Getting started with Obsidian"
+            }
+          },
+          {
+            "id": "6309f08e7578802b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "155d001a91ad7f75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c94716c16e758a1",
+  "lastOpenFiles": [
+    "Getting started with Obsidian.md",
+    "README.md",
+    "Tasks/Task 3.md",
+    "Tasks/Task 7.md",
+    "Tasks/Task 6.md",
+    "Tasks/Task 5.md",
+    "Tasks/Task 4.md",
+    "Tasks/Task 2.md",
+    "Tasks/Task 1.md",
+    "DO NOT READ/Task 7_Solution.md",
+    "Attachments/Task 1_Example.pdf",
+    "Templates/Daily Note Template.md",
+    "2025-03-31.md",
+    "Templates",
+    "PhD Dashboard.md",
+    "DO NOT READ/Task 1_Solution.md",
+    "DO NOT READ",
+    "Attachments",
+    "Tasks",
+    "desktop.ini"
+  ]
+}
