@@ -20,7 +20,7 @@ Paul
 ### core programme
 1. [[Task 1]]: Formatting your notes using Markdown
 2. [[Task 2]]: Getting your notes into Obsidian and linking them
-3. [[Task 3]]: Taking reading notes in Obsidian
+3. [[Task 3]]: Taking reading notes in Obsidian (with Zotero)
 
 ### optional programme
 - [[Task 4]]: Recording your daily activities
