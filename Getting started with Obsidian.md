@@ -65,8 +65,7 @@ I wish you all the best for your Obsidian journey---and if you feel like discuss
 + [Zettelkasten Einführung](https://publish.obsidian.md/marcbielert/Workshop+Vorbereitung+Zettelkasten+Einf%C3%BChrung)
 
 #### workflows
-+ [Comprehensive Academic Workflow](https://chris-grieser.de/Comprehensive-Academic-Workflow-from-Reading-to-Writing-in-Markdown)
-+ [Academic Workflow with Zotero](https://martinezponciano.es/2021/04/05/research-workflow-as-a-phd-student-in-the-humanities/) (less intimidating)
++ [Academic Workflow with Zotero](https://martinezponciano.es/2021/04/05/research-workflow-as-a-phd-student-in-the-humanities/)
 + [Zotero Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536) (very detailed write-up)
 + [Obsidian Tutorial for Academic Writing](https://medium.com/better-humans/obsidian-tutorial-for-academic-writing-87b038060522)
 + [How to Boost Your Productivity for Scientific Research Using Obsidian](https://medium.com/better-humans/how-to-boost-your-productivity-for-scientific-research-using-obsidian-fe85c98c63c8) (very thorough introduction)
