@@ -9,7 +9,7 @@ Welcome to the demo vault for the Obsidian workshop tailored for PhD students. T
 - **Author:** [Paul Stewens](https://github.com/ibzerbasteln)
 - **Creation Date:** 30 April 2025
 - **Last Updated:** 30 April 2025
-- **Repository:** [GitHub Repository](https://github.com/yourusername/yourproject)
+- **Repository:** [GitHub Repository](https://github.com/IBzerbasteln/obsidian-for-research)
 - **License:** Restricted
 - **Keywords:** academic, research, obsidian, markdown
 - **Category:** Personal Knowledge Management Systems
