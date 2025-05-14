@@ -14,7 +14,15 @@ Paul
 
 ---
 ## Tasks
-> [!tip] Usage note
+### before you get started
+> [!tip] Navigating Obsidian
+> You can navigate your Obsidian vault **similar to a browser**. The arrows at the top right of your note allow you to **go back and forth**. At the top of your window, you see the tab that is currently open (i.e., your current note) and a `+` symbol which allows you to open a **new tab**. 
+> 
+> To **open a note**, you can either select it from the file navigation in the menu on the left, or through clicking on a link. If you click on a link to a note while holding `Ctrl`, this will open the link in a new note. As a third option, you can open the quick switcher (`Ctrl+O`) and select the note you're looking for from the list.
+> 
+> You can also **rearrange tabs** to your liking. To do that, click on the tab and drag it wherever you want to have it. You can view two (or more) tabs side-by-side, you can have one tab on top and one on the bottom - you name it.^[This might be helpful for [[Task 1]]]
+
+> [!warning] Usage note: Reading Mode
 > The tasks are designed to be completed in Reading Mode. When you open them, click on the book icon in the top-right corner. Once it turns into a pen, you're in Reading Mode. 
 
 ### core programme
