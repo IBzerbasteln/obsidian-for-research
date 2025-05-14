@@ -31,6 +31,7 @@ Users should start from `Getting started with Obsidian.md` and complete the task
 - [ ] add extensive information about note-taking techniques and structuring knowledge
 - [ ] add task on using Citations plugin and pandoc for academic writing
 - [ ] add task(s) on using Dataview for reference management
+- [ ] add task on using Canvas for mind maps
 
 ## License and Usage
 These materials are provided as a work in progress and are intended solely for the participants of the Obsidian workshop. They are not for circulation and cannot be used without the explicit permission of the author.
