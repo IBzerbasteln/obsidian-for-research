@@ -3,7 +3,12 @@
 > [!info] Introduction
 > Processing academic literature is an essential component of research---even more so in law where most research is not empirical and instead based exclusively on legal texts and secondary literature.  Obsidian provides a robust environment for managing and organising your literature notes efficiently. 
 > 
-> This task will guide you through different methods of taking literature notes in Obsidian. To accommodate for **different degrees of familiarity and comfort with technology**, it will offer three different levels of sophistication. Every level provides a functional solution for an efficient workflow.
+> This task will guide you through different methods of taking literature notes in Obsidian. To accommodate for **different degrees of familiarity and comfort with technology**, it will offer three different levels of sophistication. Every level provides a functional solution for an efficient workflow. 
+> 1. Level 1 will allow you to handle PDFs in Obsidian, to link to them and to their contents.
+> 2. Level 2 will integrate your Obsidian vault with your Zotero/EndNote library.
+> 3. Level 3 will eliminate some elements of friction and make the link between your vault and your library smoother.
+> 
+> Please think about what you would like to achieve, and pick your level accordingly.
 
 ## Learning outcomes
 By the end of this task, you will be able to:
