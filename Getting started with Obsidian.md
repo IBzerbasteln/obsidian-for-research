@@ -35,6 +35,7 @@ Paul
 - [[Task 5]]: Changing the appearance of your vault
 - [[Task 6]]: Creating and using templates
 - [[Task 7]]: Structuring your vault
+- [[Task 8]]: Using canvas to create a visual overview
 
 ### and then?
 The purpose of these tasks is to help you **familiarise yourself** with Obsidian and put a few things in place that will allow you to get started and lose the fear of a new tool. This is, however, not the important part. Having a clean, beautiful, optimised vault is completely pointless if you don't do work in it. This is a tool, not an end in itself. The important part comes now: **start taking notes**. Just start. Now. Completing the tasks will give you a minimal environment where you can get a lot of things done; everything else you can figure out along the way. Just give it a try. And if you want to develop your vault, add more functionalities, refine your workflow etc., I've added a list of resources below to get you started.
