@@ -5,10 +5,10 @@ Welcome to the demo vault for the Obsidian workshop tailored for PhD students. T
 
 ## Metadata
 - **Project Name:** Getting started with Obsidian: a guide for researchers
-- **Version:** 0.1
+- **Version:** 0.1.1
 - **Author:** [Paul Stewens](https://github.com/ibzerbasteln)
 - **Creation Date:** 30 April 2025
-- **Last Updated:** 30 April 2025
+- **Last Updated:** 14 May 2025
 - **Repository:** [GitHub Repository](https://github.com/IBzerbasteln/obsidian-for-research)
 - **License:** Restricted
 - **Keywords:** academic, research, obsidian, markdown
@@ -25,6 +25,7 @@ The vault contains a number of different tasks which are supposed to help users 
 Users should start from `Getting started with Obsidian.md` and complete the tasks of the core programme in the indicated order. Afterwards, the tasks of the optional programme can be completed in an order of the user's choice.
 
 ## Changelog
+- **v.0.1.1 (2025-05-14)**: Minor clarifications based on insights from the first in-person workshop.
 - **v0.1 (2025-04-23):** First draft finished to be used at in-person workshop in Maastricht.
 
 ## Roadmap
