@@ -44,5 +44,5 @@ These materials are provided as a work in progress and are intended solely for t
 ## Contact
 If you have any questions or feedback, please feel free to reach out to me.
 
-- **Email:** [paul.stewens@maastrichtuniversity.nl](mailto:paul.stewens@maastrichtuniversity.nl)
+- **Email:** [paul.stewens@pm.me](mailto:paul.stewens@pm.me)
 - **Website:** [paul-stewens.com](https://paul-stewens.com)

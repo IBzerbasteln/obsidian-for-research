@@ -42,7 +42,7 @@ The purpose of these tasks is to help you **familiarise yourself** with Obsidian
 
 Remember: this is your system, and it can be as advanced or as vanilla as you want. The important thing is that it works for you, and does the things you want it to do. It's a tool, not an end in itself. And one last thing: stay critical when you watch Obsidian tutorials and showcases on YouTube. There is a lot of extremely valuable content out there but also a lot of people who make content for a living and therefore have to keep making up problems and selling you solutions to "Supercharge your Productivity in Obsidian 🧠". Be wary of these, and be guided by your own functional needs and capabilities.
 
-I wish you all the best for your Obsidian journey---and if you feel like discussing any of this further, you can reach me via paul.stewens@maastrichtuniversity.nl.
+I wish you all the best for your Obsidian journey---and if you feel like discussing any of this further, you can reach me via paul.stewens@pm.me.
 
 ---
 ## Resources
