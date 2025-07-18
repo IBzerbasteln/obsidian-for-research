@@ -16,6 +16,10 @@ By the end of this task, you will be able to:
 2. **Navigate to Appearance**: In the settings menu, go to the `Appearance` section.
 3. **Select and apply a theme**: In the `Themes` section, click on the `Manage` button. This will take you to the repository of all themes that are available for Obsidian. Browse the list; you can click on any theme to preview it. Once you've found one you would like to try, click `Install and use`.
 
+![[themes-manage.png|500]]
+
+![[themes-repo.png|500]]
+
 > [!info] Configuring Appearance Settings
 > In addition to switching themes, there are a few general settings about how your Obsidian looks that you can adjust (e.g., the font size or what menus are shown). These can be found in the `Appearance` section in the `Settings`. 
 

@@ -17,6 +17,9 @@ By the end of this task, you will be able to:
 	1. At the bottom of your canvas, click on the icon on the right (`Drag to add media from vault`) and select `Attachments/Task 1_Example.pdf`.
 	2. At the bottom of your canvas, click on the icon in the middle (`Drag to add note from vault`) and select the note you created for [[Task 1]] (should be [[Task 1_Practice]]).
 	3. Place the two cards side by side and adjust their size so that they have the same height.
+
+![[canvas-1.png|700]]
+
 3. Add **external materials** to the canvas.
 	1. Open [this link](https://commons.wikimedia.org/wiki/File:Journal.pone.0138352.g001A.jpg) in your browser. Drag the image onto your canvas. Place it anywhere and adjust the size. In the file explorer on the left, rename the image (by right-clicking on it) and move it to the folder `Attachments`.
 	2. At the bottom of your canvas, click on the icon on the left (`Drag to add card`). Place it anywhere on the canvas. Right-click on the card, select the colour palette, and choose a colour. Then, left-clik on the card and paste the following text onto the card:
@@ -24,8 +27,14 @@ By the end of this task, you will be able to:
 # Stegosaurus: Pronunciation
 *STEG-oh-SORE-us*
 ```
+
+![[canvas-2.png|700]]
+
 4. **Connect your items**. Hover your mouse icon over the top edge of the PDF so that a purple dot appears. Click on the dot, hold, and connect it to another item on your canvas.
-5. **Group your items**. Select the PDF and the note you created for [[Task 1]]. In the taskbar that appears, select the fourth item (`Create group`). Assign a name to the group.
+5. **Group your items**. Select the PDF and the note you created for [[Task 1]]. In the taskbar that appears, select the fourth item (`Create group`). Assign a name to the group. Your canvas should now look like this:
+
+![[canvas-3.png]]
+
 
 > [!tip] And now?
 > This is the basic functionality of canvas. As is the case with many of Obsidian's functions, the beauty and power lies in its simplicity. With these elementary functions, you'll be able to create powerful visualisations of your knowledge, and bring a form of visual order into your vault.

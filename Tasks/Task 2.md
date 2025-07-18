@@ -36,12 +36,24 @@ By the end of this task, you will be able to:
 >  
 
 1. **Link to another note**: Create links to other relevant notes in your Obsidian vault. For example, if your note mentions a concept discussed in another note, link to that note using the double bracket syntax `[[Note Title]]`.^[Once you type `[[`, Obsidian will automatically suggest notes to link.]
+
+![[link-basic.png|300]]
+
 2. **Link to a section in another note**: Create a link to a relevant section in another note. To do this, create a normal link and add a `#` after the title. Obsidian will then display a list of the sections in that note to choose from. 
 	- The link will then look like this: `[[Note Title#Section Title]]`.
-3. **Link to a block in another note**: Create a link to a relevant paragraph or list item in another note. To do this, create a normal link and add `#^` after the title. Obsidian will then display a list of the blocks in that note to choose from.
-	- The link will then look like this: `[[Note Title#^Block]]`.
+
+![[link-section.png|500]]
+
+3. **Link to a block in another note**: Create a link to a relevant paragraph or list item in another note. To do this, create a normal link and add `#^` after the title. Obsidian will then display a list of the blocks in that note to choose from. Once you hit enter, Obsidian will generate an identifier for that block and include it in your link.
+	- The link will then look like this: `[[Note Title#^BlockID]]`.
+
+![[link-block.png|500]]
+
 4. **Changed displayed link:** You might want to change the text that is displayed for a given link. To do that, you enter a `|` at the end of the link and put the text you would like to be displayed instead. 
 	- The link will then look like this: `[[Note Title#Section|Custom display text]]`
+
+![[link-text.png|600]]
+
 5. **Check the global graph**: Click on the second symbol in the task bar on the left to display the graph. This will show you a visualisation of all your notes and the connections between them. 
 
 ---
