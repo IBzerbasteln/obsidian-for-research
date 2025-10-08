@@ -5,7 +5,7 @@
 > 
 > This task will guide you through different methods of taking literature notes in Obsidian. To accommodate for **different degrees of familiarity and comfort with technology**, it will offer three different levels of sophistication. Every level provides a functional solution for an efficient workflow. 
 > 1. Level 1 will allow you to handle PDFs in Obsidian, to link to them and to their contents.
-> 2. Level 2 will integrate your Obsidian vault with your Zotero/EndNote library.
+> 2. Level 2 will integrate your Obsidian vault with your Zotero 7/EndNote library.
 > 3. Level 3 will eliminate some elements of friction and make the link between your vault and your library smoother.
 > 
 > Please think about what you would like to achieve, and pick your level accordingly.
@@ -29,15 +29,20 @@ By the end of this task, you will be able to:
 2. **Export your library**: 
 	1. In **Zotero**, right-click on `My Library` and select `Export Library`. Choose BibLaTex format and save the resulting `.bib` on your device. 
 	2. In **Endnote**, select `Tools` > `Output Styles` > `Open Style Manager...` and scroll down to tick the option `BibTeX Export`. Close the Style Manager. Go to `File` > `Export...`, assign a name to your library, select `Text File (*.txt)`, and select `BibTeX Export` as the output style. Save the file somewhere in your vault.
-3. **Configure the plugin:** Back in the Obsidian settings, navigate to the `Community plugins` section and select the Citations plugin. Under `Citation database path`, add the path to the `.bib` or `.txt` file you just saved. If needed the plugin also allows you to specify in which folder new literature notes should be created. Also, you can configure a template; for starters, consider pasting the following into the `Literature note content template` field: ^16a6b6
+3. **Configure the plugin:** Back in the Obsidian settings, navigate to the `Community plugins` section and select the Citations plugin. Under `Citation database path`, add the full path (incl. file name) to the `.bib` or `.txt` file you just saved. If needed the plugin also allows you to specify in which folder new literature notes should be created. Also, you can configure a template; for starters, consider pasting the following into the `Literature note content template` field: ^16a6b6
 ```
+---
+title: "{{title}}"
+authors: {{authorString}}
+published-date: {{year}}
+aliases: "{{#each entry.author}}{{this.family}}{{#unless @last}}, {{/unless}}{{/each}} {{year}}"
+---
 # "{{title}}"
 
 ---
-**title**: {{title}}
-**authors**: {{authorString}}
-**year**: {{year}}
-**abstract**: {{abstract}}
+
+> [!abstract]
+> {{abstract}}
 
 ---
 ## notes
@@ -54,7 +59,7 @@ By the end of this task, you will be able to:
 > 
 > To my knowledge, these issues cannot be fixed in EndNote. In Zotero, we can do so using two plugins.
 
-1. **Install Zotero plugins**: Install the [ZotMoov](https://github.com/wileyyugioh/zotmoov) and [BetterBibTex](https://retorque.re/zotero-better-bibtex/installation/index.html) plugins in Zotero according to the instructions on the respective websites.
+1. **Install Zotero plugins**: Install the [BetterBibTex](https://retorque.re/zotero-better-bibtex/installation/index.html) and [ZotMoov](https://github.com/wileyyugioh/zotmoov) plugins in Zotero according to the instructions on the respective websites.
 2. **Configure Zotmoov**: In Zotero, go to `Edit` > `Settings` > `ZotMoov`. Copy the path of the `Attachments` folder in your Obsidian vault and paste it into `Directory to Move/Copy Files To`; alternatively, you can select the directory via the `Choose Directory` button.
 3. **Move attachments from Zotero to Obsidian**: Select those titles in your Zotero library whose attachments you want to move into your vault, right-click and select `ZotMoov: Move Selected to Directory`.^[This will make the PDF available in your vault and at the same time keep it linked to your Zotero reference. It also saves you memory space on your Zotero account which is extremely limited (300 MB).]
 4. **Export your Zotero library**: In Zotero, right-click on `My Library` and select `Export Library`. Choose BetterBibLaTex format, tick the box `Keep updated`, and save the resulting `.bib` in the `Attachments` folder in your vault.
