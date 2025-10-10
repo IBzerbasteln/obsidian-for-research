@@ -18,9 +18,10 @@ Welcome to the demo vault for the Obsidian workshop tailored for PhD students. T
 1. **Install Obsidian**: Download the [installer](https://obsidian.md/download) and follow the instructions.
 2. **Clone the Vault:** Download or clone this vault to your local machine.
 	1. Go to `Releases`, select the latest version, go to `Assets` and click on `Source code (zip)`. 
-	2. Unpack the `.zip` file to a directory of your choice on your computer.^[If you want to synchronise your vault across devices, make sure to select a directory that is synchronised by the cloud you're using (OneDrive, Dropbox, Proton Drive etc.).]
+	2. Unpack the `.zip` file to a directory of your choice on your computer.[^1]
 3. **Open in Obsidian:** Open Obsidian, select `Open folder as vault` and select this folder.
 
+[^1]: If you want to synchronise your vault across devices, make sure to select a directory that is synchronised by the cloud you're using (OneDrive, Dropbox, Proton Drive etc.).
 ## How to use the vault
 The vault contains a number of different tasks which are supposed to help users to familiarise themselves with Obsidian and start building their own personal knowledge management system. These tasks can be completed in self-study; for those that require producing a specific output, solutions are provided that will allow users to self-assess.
 
