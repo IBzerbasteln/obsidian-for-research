@@ -35,6 +35,8 @@ Users should start from `Getting started with Obsidian.md` and complete the task
 - **v0.1 (2025-04-23):** First draft finished to be used at in-person workshop in Maastricht.
 
 ## Roadmap
+- [ ] include shortcuts for Mac
+- [ ] include use cases for generative AI
 - [ ] add extensive information about note-taking techniques and structuring knowledge
 - [ ] add task on using Citations plugin and pandoc for academic writing
 - [x] add task(s) on using Dataview and Bases for reference management
