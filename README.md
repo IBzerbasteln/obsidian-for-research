@@ -5,7 +5,7 @@ Welcome to the demo vault for the Obsidian workshop tailored for PhD students. T
 
 ## Metadata
 - **Project Name:** Getting started with Obsidian: a guide for researchers
-- **Version:** 0.3.1
+- **Version:** 0.3.2
 - **Author:** [Paul Stewens](https://github.com/ibzerbasteln)
 - **Creation Date:** 30 April 2025
 - **Last Updated:** 11 November 2025
@@ -28,6 +28,7 @@ The vault contains a number of different tasks which are supposed to help users 
 Users should start from `Getting started with Obsidian.md` and complete the tasks of the core programme in the indicated order. Afterwards, the tasks of the optional programme can be completed in an order of the user's choice.
 
 ## Changelog
+- **v.0.3.2 (2025-11-11)**: Added applications for LLMs and background on Markdown format
 - **v.0.3.1 (2025-11-11)**: Added shortcuts for Mac.
 - **v.0.3 (2025-10-12)**: New task on using Bases for reference management. 
 - **v.0.2.1 (2025-10-08)**: Added screenshots for clarity and minor corrections.
@@ -37,7 +38,7 @@ Users should start from `Getting started with Obsidian.md` and complete the task
 
 ## Roadmap
 - [x] include shortcuts for Mac
-- [ ] include use cases for generative AI
+- [x] include use cases for generative AI
 - [ ] add extensive information about note-taking techniques and structuring knowledge
 - [ ] add task on using Citations plugin and pandoc for academic writing
 - [x] add task(s) on using Dataview and Bases for reference management
