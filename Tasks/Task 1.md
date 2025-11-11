@@ -48,6 +48,18 @@ With all of this in mind, let's move on and see how you can use it!
  2. [Markdown Live Editor](https://markdowneditor.net/markdown-editor) that lets you try out different formatting options and renders them in real time
  3. comprehensive documentation on how to format your notes in Obsidian: [Obsidian Documentation: Markdown](https://help.obsidian.md/How+to/Format+your+notes)
 
+## Using generative AI
+You [[Task 1#^24fbc1|already know]] that popular LLMs like ChatGPT, Gemini, and so on provide their output in Markdown format. But did you know that you can also use AI to format your notes in Markdown? Let's try to have the task from above completed using an LLM of your choice.[^3]
+
+1. Create a new note (`Ctrl+N`/`Cmd+N`) with the title `Task 1_Practice`.
+2. Open the `Attachments` folder of your vault. Select the file `Task 1_Example.pdf`, right-click, and select `Show in system explorer`.
+3. Open the LLM of your choice. Drag the `.pdf` file into the chat and try different prompts to have the LLM replicate the PDF in Markdown format.
+4. Paste the output into [[Task 1_Practice|your new note]].
+5. Switch to Reading Mode to assess whether your note is identical to [[Task 1_Example.pdf]]. Adjust the note as needed.
+
+
+[^3]: Consider using [Le Chat by Mistral](https://chat.mistral.ai/), a private LLM developed by a French company.
+
 ---
 overview: [[Getting started with Obsidian]]
 next task: [[Task 2]]

@@ -30,6 +30,13 @@ By the end of this task, you will be able to:
 4. **Format the note**: Use Markdown to format the note as needed.
 5. **Repeat this process**: Repeat steps 1-3 for to create least three different notes so you can practice linking afterwards.  
 
+#### Using generative AI
+As with [[Task 1#Using generative AI|Task 1]], generative AI can also help you here. If you find it tedious to copy and paste digital notes in other formats and then having to manually re-format them in Markdown, you might want to have an LLM do the bulk of this work. 
+
+If your note exists as a file on your computer, you can try to drag and drop it into the LLM of your choice and prompt it to convert its content into Markdown. Make sure to include an instruction in your prompt that prevents the LLM from meddling with the content of your note; the only modifications should relate to the formatting.
+
+If you're transferring notes from a note-taking app that uses a proprietary format and does not allow you to access your notes as files, just copy and paste the content of the note you want to transfer to Obsidian and instruct the LLM to format it using Markdown without changing the content.
+
 ### Step 2: Linking your notes
 > [!tip] Tips for linking
 > The linking functionality is one of Obsidian's most powerful features. It allows you to establish connections between notes that will then become visible in the graph. Using links, you can break down information in little chunks and recombine them and place them in different contexts as needed. This can be a great resource for creative thinking and academic research and writing alike.
