@@ -21,7 +21,7 @@ By the end of this task, you will be able to:
 ### Level 1: Handling PDFs in Obsidian
 1. **Select a PDF**: Choose a PDF document that you want to take notes on.
 2. **Import the PDF**: Drag and drop the PDF into your Obsidian vault and place it in the `Attachments` folder.
-3. **Create a literature note**: Create a new note in Obsidian (`Ctrl+N`), ideally from a [[Task 6|Template]], enter some basic information about the text (author, year, title etc.) and a link to the PDF. 
+3. **Create a literature note**: Create a new note in Obsidian (`Ctrl+N`/`Cmd+N`), ideally from a [[Task 6|Template]], enter some basic information about the text (author, year, title etc.) and a link to the PDF. 
 4. **Read and annotate the PDF**: Open your literature note and the PDF side by side, read the text and take notes in your literature note. If you want to quote a passage, select the text in the PDF and right-click. Then, select the option `Copy as quote` and paste it into your literature note; this will copy the part of the test you're quoting together with a link to that precise location within the PDF. If you prefer having just a link to a specific section, choose `Copy link to selection` instead. ^578495
 
 ### Level 2: Obsidian with Citations Plugin
@@ -48,7 +48,7 @@ aliases: "{{#each entry.author}}{{this.family}}{{#unless @last}}, {{/unless}}{{/
 ## notes
 ```
 
-4. **Create a literature note**: Use the command palette (`Ctrl+P`) to search for and select the `Citations: Open literature note` command. After a short moment of loading, this will show you a list of all titles in the exported Zotero bibliography. Select one, and the plugin will create a literature note for that title based on the template you specified.
+4. **Create a literature note**: Use the command palette (`Ctrl+NP`/`Cmd+P`) to search for and select the `Citations: Open literature note` command. After a short moment of loading, this will show you a list of all titles in the exported Zotero bibliography. Select one, and the plugin will create a literature note for that title based on the template you specified.
 5. **Read and annotate the PDF**: see [[Task 3#^578495|Level 1, Step 4]]
 
 ### Level 3: Obsidian and Zotero with Plugins

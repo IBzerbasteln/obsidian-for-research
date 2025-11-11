@@ -15,14 +15,14 @@ By the end of this task, you will be able to:
 
 #### Option A: Incorporating physical notes
 1. **Select a physical note**: Choose a short physical note or a section from a longer note that you want to import into Obsidian.
-2. **Transcribe the note**: Create a new note in Obsidian (`Ctrl+N`), assign a name to it, and type the content of your physical note into this new note.
+2. **Transcribe the note**: Create a new note in Obsidian (`Ctrl+N`/`Cmd+N`), assign a name to it, and type the content of your physical note into this new note.
 3. **Format the note**: Use Markdown to format the note as needed.
 4. **Repeat this process**: Repeat steps 1-3 for to create least three different so you can practice linking afterwards.
 
 #### Option B: Importing digital notes
 1. **Select a digital note**: Choose a short digital note or a section from a longer note that you have taken in a Microsoft Word document, on OneNote, Evernote, Notion etc. to want to import into Obsidian.
 2. **Copy the content**: Copy the content of your digital note.
-3. **Create a new note**: Create a new note in Obsidian (`Ctrl+N`), assign a name to it, and paste the content into this new note.
+3. **Create a new note**: Create a new note in Obsidian (`Ctrl+N`/`Cmd+N`), assign a name to it, and paste the content into this new note.
 	- When you click right in Obsidian, it will offer you two options: `Paste` and `Paste as plain text`. 
 		- If you select `Paste`, Obsidian will try and reproduce the formatting, links etc. in your original note using Markdown.
 		- `Paste as plain text` removes all this information and just pastes the plain text into your note.

@@ -44,7 +44,7 @@ Let's use this to create a table with our references.
 > - [ ] a separate folder that contains them, and only them, or 
 > - [ ] a tag that you use to collect your references (something link \#reference).
 
-1. **Create a new base.** In order to do that, you can either click the top bottom in the menu ribbon on the left, or you open the command palette (`Ctrl+P`) and select the option `Bases: Create new base`. You should now be looking at an unfiltered table that lists the file names of all files in your vault (i.e., notes and attachments). The file name should be `Untitled`; rename it, if you like.
+1. **Create a new base.** In order to do that, you can either click the top bottom in the menu ribbon on the left, or you open the command palette (`Ctrl+P`/`Cmd+P`) and select the option `Bases: Create new base`. You should now be looking at an unfiltered table that lists the file names of all files in your vault (i.e., notes and attachments). The file name should be `Untitled`; rename it, if you like.
 
 ![[bases-new.png|600]]
 

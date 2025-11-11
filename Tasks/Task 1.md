@@ -11,7 +11,7 @@ By the end of this task, you will be able to:
 - replicate an example PDF using Markdown in Obsidian.
 
 ## Instructions
-1. Create a new note (`Ctrl+N`) with the title `Task 1_Practice`. You can also create and access that note by clicking on [[Task 1_Practice|this link]].
+1. Create a new note (`Ctrl+N`/`Cmd+N`) with the title `Task 1_Practice`. You can also create and access that note by clicking on [[Task 1_Practice|this link]].
 2. Open the [[Task 1_Example.pdf|example PDF]] in a new tab and use drag-and-drop to arrange them side by side.
 
 ![[side-by-side.png]]

@@ -33,7 +33,7 @@ You can create new folders for your vault either in your file explorer, or withi
 ### Tags
 In addition to placing notes into folders, Obsidian also allows you to assign tags to your notes. A tag in Obsidian looks like #this. You can click on tags, and the search tab on the left will automatically list all notes that have been accordingly tagged. If you open the menu on the right, you can also access a list of all tags in your vault. A note can contain any number of tags, and Obsidian also supports nested tags (or sub-tags, if you will). These can be created using a simple `/`: #nested/tag
 
-Tags can be placed anywhere in the body of a note, or in its frontmatter. To place a tag there, open the command palette (`Ctrl+P`) and select `Add file property`. Select the option `tags` and add the tags of your choice.
+Tags can be placed anywhere in the body of a note, or in its frontmatter. To place a tag there, open the command palette (`Ctrl+P`/`Cmd+P`) and select `Add file property`. Select the option `tags` and add the tags of your choice.
 
 #### Strengths
 - **Flexibility**: A note can have multiple tags so you won't have to choose between one tag or another.
