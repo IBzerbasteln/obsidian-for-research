@@ -43,9 +43,10 @@ Users should start from `Getting started with Obsidian.md` and complete the task
 - [x] include shortcuts for Mac
 - [x] include use cases for generative AI
 - [ ] add extensive information about note-taking techniques and structuring knowledge
-- [ ] add task on using Citations plugin and pandoc for academic writing
+- [x] add task on using Citations plugin and pandoc for academic writing
 - [x] add task(s) on using Dataview and Bases for reference management
 - [ ] add background information about the utility of research logs
+- [ ] add background information about using logs for narrative CVs
 - [x] add task on using Canvas for mind maps
 
 ## License and Usage
