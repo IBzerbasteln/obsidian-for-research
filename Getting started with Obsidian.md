@@ -5,7 +5,7 @@ Welcome to the first day of the rest of your research career! You've made the co
 
 I am, of course, talking about **Obsidian**, a free, open source, community first note-taking app. People use it for all kinds of different purposes ranging from [academic research](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd) over [creative writing](https://storyletter.substack.com/p/to-build-a-note-is-note-taking-productive) to [role-playing games](https://phd20.com/blog/getting-started-with-obsidian-dnd/) like *Dungeons and Dragons*. In our line of work, the capacity of Obsidian to store, organise, and connect knowledge is extremely powerful, and I would like you to explore this; maybe you will find it valuable.
 
-For that purpose, I've designed a few tasks to help you get started with Obsidian on your own device. Everything you need to complete them is already in the vault---apart from the thoughts, notes, and materials that you would like to keep and curate in Obsidian. The tasks from the **core programme** should be completed in the given order; after that, you can (if you like) turn to the **optional programme** in whatever order. 
+For that purpose, I've designed a few tasks to help you get started with Obsidian on your own device. Everything you need to complete them is already in the vault---apart from the thoughts, notes, and materials that you would like to keep and curate in Obsidian. If you scroll down, you'll find a [[Getting started with Obsidian#list of tasks|list of tasks]] and different suggestions on the order in which you might want to complete them. In principle, the tasks can be completed in any order and independent of each other unless otherwise indicated in the task description.
 
 At the bottom of this page, you'll also find some references if ever you're interested in pushing your Obsidian use any further.
 
@@ -25,18 +25,27 @@ Paul
 > [!warning] Usage note: Reading Mode
 > The tasks are designed to be completed in Reading Mode. When you open them, click on the book icon in the top-right corner. Once it turns into a pen, you're in Reading Mode. 
 
-### core programme
-1. [[Task 1]]: Formatting your notes using Markdown
-2. [[Task 2]]: Getting your notes into Obsidian and linking them
-3. [[Task 3]]: Taking reading notes in Obsidian (with Zotero)
-
-### optional programme
+### list of tasks
+- [[Task 1]]: Formatting your notes using Markdown
+- [[Task 2]]: Getting your notes into Obsidian and linking them
+- [[Task 3]]: Taking reading notes in Obsidian (with Zotero)
 - [[Task 4]]: Recording your daily activities
 - [[Task 5]]: Changing the appearance of your vault
 - [[Task 6]]: Creating and using templates
 - [[Task 7]]: Structuring your vault
 - [[Task 8]]: Using canvas to create a visual overview
 - [[Task 9]]: Advanced reference notes and reference organisation
+- [[Task 10]]: Academic writing in Obsidian
+
+| The standard track                                            | The organiser track                                           | The visual track                                                       | The hard track                                                  |
+| ------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------- |
+| if you just want to get an idea of what Obsidian does         | if you like it when everything is in its place                | if you care about aesthetics and prefer graphic organisation over text | if you want to maximise your Obsidian use for academic research |
+| [[Task 1]]: Formatting your notes using Markdown              | [[Task 7]]: Structuring your vault                            | [[Task 5]]: Changing the appearance of your vault                      | [[Task 1]]: Formatting your notes using Markdown                |
+| [[Task 2]]: Getting your notes into Obsidian and linking them | [[Task 1]]: Formatting your notes using Markdown              | [[Task 1]]: Formatting your notes using Markdown                       | [[Task 2]]: Getting your notes into Obsidian and linking them   |
+| [[Task 3]]: Taking reading notes in Obsidian (with Zotero)    | [[Task 2]]: Getting your notes into Obsidian and linking them | [[Task 2]]: Getting your notes into Obsidian and linking them          | [[Task 3]]: Taking reading notes in Obsidian (with Zotero)      |
+| *complete remaining tasks as needed*                          | [[Task 6]]: Creating and using templates                      | [[Task 8]]: Using canvas to create a visual overview                   | [[Task 9]]: Advanced reference notes and reference organisation |
+|                                                               | [[Task 4]]: Recording your daily activities                   | *complete remaining tasks as needed*                                   | [[Task 10]]: Academic writing in Obsidian                       |
+|                                                               | *complete remaining tasks as needed*                          |                                                                        | *complete remaining tasks as needed*                            |
 
 ### and then?
 The purpose of these tasks is to help you **familiarise yourself** with Obsidian and put a few things in place that will allow you to get started and lose the fear of a new tool. This is, however, not the important part. Having a clean, beautiful, optimised vault is completely pointless if you don't do work in it. This is a tool, not an end in itself. The important part comes now: **start taking notes**. Just start. Now. Completing the tasks will give you a minimal environment where you can get a lot of things done; everything else you can figure out along the way. Just give it a try. And if you want to develop your vault, add more functionalities, refine your workflow etc., I've added a list of resources below to get you started.
