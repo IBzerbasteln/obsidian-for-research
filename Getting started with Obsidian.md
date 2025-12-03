@@ -16,7 +16,7 @@ Paul
 ## Tasks
 ### before you get started
 > [!tip] Navigating Obsidian
-> You can navigate your Obsidian vault **similar to a browser**. The arrows at the top right of your note allow you to **go back and forth**. At the top of your window, you see the tab that is currently open (i.e., your current note) and a `+` symbol which allows you to open a **new tab**. 
+> You can navigate your Obsidian vault **similar to a browser**. The arrows at the top left of your note allow you to **go back and forth**. At the top of your window, you see the tab that is currently open (i.e., your current note) and a `+` symbol which allows you to open a **new tab**. 
 > 
 > To **open a note**, you can either select it from the file navigation in the menu on the left, or through clicking on a link. If you click on a link to a note while holding `Ctrl`/`Cmd`, this will open the link in a new note. As a third option, you can open the quick switcher (`Ctrl+O`/`Cmd+O`) and select the note you're looking for from the list.
 > 
